@@ -1,4 +1,7 @@
-## 🟦 `Challenge_1b/Collection 1/README.md`
+# Adobe-India-Hackathon25  
+## Challenge 1B – PDF Structure Extraction
+
+This repository contains my solution for **Challenge 1B** of the Adobe India Hackathon 2025.
 
 ```markdown
 # Challenge 1B – Persona-Based Document Analysis
@@ -33,6 +36,7 @@ The system:
 Put the following in the `input/` folder:
 - One `persona.json` file
 - 3–10 PDF files
+```
 
 ```json
 {
