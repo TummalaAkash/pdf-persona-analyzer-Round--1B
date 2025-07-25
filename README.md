@@ -42,7 +42,7 @@ Put the following in the `input/` folder:
 ```
 
 ## 📁 Project Structure
-```json
+```bash
 ├── app/
 │   ├── main.py                  # Main application script
 │   └── requirements.txt         # Python dependencies
@@ -71,7 +71,7 @@ Put the following in the `input/` folder:
 
 ## 🐳 How to Run 
  
-```json
+```bash
 docker build --platform linux/amd64 -t persona_analyzer:1b .
 docker run --rm -v ${PWD}/input:/app/input -v ${PWD}/output:/app/output --network none persona_analyzer:1b
 ```
