@@ -43,7 +43,6 @@ Put the following in the `input/` folder:
 
 ## 📁 Project Structure
 ```json
-.
 ├── app/
 │   ├── main.py                  # Main application script
 │   └── requirements.txt         # Python dependencies
